@@ -1,0 +1,17 @@
+# Obsidian files to ignore
+.obsidian/workspace*
+.obsidian/graph.json
+.obsidian/cache
+.obsidian/local-storage.json
+.obsidian/hotkeys.json
+.obsidian/workspace.json
+
+# System files
+.DS_Store
+Thumbs.db
+*.tmp
+*.temp
+
+# Backup files
+*~
+*.bak
