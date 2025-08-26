@@ -1,5 +1,5 @@
 
 ~~email = proton~~ 
-photo backup = immich 
+photo backup = ente 
 ~~DNS = nextdns~~
 
