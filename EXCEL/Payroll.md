@@ -7,4 +7,9 @@
 SO FAR SO GOOD NGL I FEEL CONFIDENT, I HOPE I COMPLETE THIS THO.
 
 ### assignment 2:
-- 
+- added overtime pay and overtime bonus and learnt new formulas 
+- learnt the IF formula 
+
+### assignment 3:
+- added weeks for every month and for every coloumn 
+- learnt about absolute value and is represented by $ sign
